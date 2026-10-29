@@ -1,3 +1,5 @@
+'use client';
+
 import postgres from 'postgres';
 import {
   CustomerField,
